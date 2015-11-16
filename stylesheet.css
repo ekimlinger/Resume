@@ -1,0 +1,83 @@
+body {
+    text-align: justify;
+    background: url(http://i.imgur.com/JGjJAD3.jpg) center fixed;
+    background-color: black;
+    font-family: "Calibri","sans-serif";
+    padding: 10px;
+    text-align: center;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.content {
+    text-align:center;
+
+}
+.contact {
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block {
+    padding: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+#contact {
+    align-content: center;
+}
+h1 {
+    color:#272727;
+    font-size: 60px;
+    font-family: Vani;
+}
+#profile {
+    border:solid;
+    border-radius: 3px;
+}
+.about {
+    background-color: rgba(0, 0, 0, 0.80);
+    border: 2px solid;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.about h2{
+    color:white;
+}
+.about h3{
+    color:white;
+}
+.work {
+    background-color: rgba(225, 225, 225, 0.85);
+    border: 2px solid;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.education {
+    background-color: rgba(225, 225, 225, 0.85);
+    border: 2px solid;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+h2 {
+    color: black;
+    border-bottom: 1px solid;
+}
+h3 {
+    color: black;
+    text-decoration: underline;
+    font-size: 22px;
+}
+p {
+    color: black;
+    font-size: 19px;
+}
+li {
+    list-style: none;
+    color: black;
+    font-size: 18px;
+}
