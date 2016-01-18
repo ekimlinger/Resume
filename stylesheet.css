@@ -1,7 +1,9 @@
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
 body {
     background: url(http://i.imgur.com/JGjJAD3.jpg) center fixed;
     background-color: black;
-    font-family: "Futura", "sans-serif";
+    font-family: 'Montserrat', "Futura", sans-serif;
     text-align: center;
     margin: 0px;
     padding:0px;
@@ -41,27 +43,26 @@ header{
 }
 
 nav {
-        float:left;
-        margin: auto, 50px, auto, 0px;
-        padding:none;
+    float:left;
+    margin: auto, 50px, auto, 0px;
+    padding:none;
 }
 #nav{
     margin-right:50px;
     padding:none;
     list-style-type:none;
-   padding: 0px, 30px;
+    padding: 0px, 30px;
 }
-#nav li{
+nav li{
     display: inline-block;
     text-align: center;
     font-weight:bold;
     font: rgb(255,255,255);
     padding: 0px, 50px;
+    margin: 0px,100px;
     
 }
 #nav a{
-    margin: 0, 30px,0,30px;
-    padding: 15px, 30px, 15px,30px;
     color: white;
     text-decoration:none;
 
